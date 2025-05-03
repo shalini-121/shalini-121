@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE (Data Science Specialization)** — Batch of 2026  
+- 🎓 **B.Tech Information Technology** — Batch of 2026  
 - 🔬 **Research Interests**: Exploring the Future with AI, Deep Learning, IoT, and Data Science  
 - 💡 **Currently working on**:
   - AI-powered Traffic Prediction with Deep Learning  
