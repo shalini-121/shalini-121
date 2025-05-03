@@ -19,13 +19,6 @@
   - **Diabetes Prediction** using ensemble ML models and performance tuning
   - Conducted **case studies** in various data science applications
 - ☁️ I'm also exploring **Cloud Computing** and working with tools like **MongoDB** for data handling  
-- 🛠️ Tech Stack and Tools:
-  - Programming: `Python`, `SQL`
-  - Tools & IDEs: `Eclipse`, `Jupyter Notebook`
-  - Libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`
-  - Databases: `MongoDB`
-  - Cloud & Deployment: Familiar with basic cloud concepts
-
 - 💬 Ask me about anything related to Data Science, ML models, or how to get started with AI!
 <hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
 
@@ -52,7 +45,7 @@
 📌 Preparing for upcoming hackathons, industry-level deployments, and collaborative research in AI and emerging technologies.
 <hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack/Tools
 
 
 
