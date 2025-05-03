@@ -68,7 +68,16 @@
   
 
 </div>
+<hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
 
+### 📈 GitHub Stats
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=shalini-121&show_icons=true&theme=tokyonight" />  
+  <br /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shalini-121&theme=tokyonight" />  
+  <br /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-121&layout=compact&theme=tokyonight" /> 
+</p>
 
 
