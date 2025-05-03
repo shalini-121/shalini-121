@@ -1,4 +1,5 @@
-# Hi 👋, I'm Shalini Reddy
+<h1 align="center">Hi 👋, I'm Shalini Chegireddy</h1>
+
 
 **A passionate developer, inventive problem solver, and data enthusiast, driven to turn ideas into innovative solutions with precision and creativity!**
 
@@ -27,15 +28,27 @@
 
 - 💬 Ask me about anything related to Data Science, ML models, or how to get started with AI!
 <hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
+
 ## 🧠 Did You Know?
 
 > 🧠 **“Deep Learning”** algorithms are inspired by how the human brain works, mimicking neurons and synapses.  
->  
 > 🔍 **Data Science** helps uncover patterns in massive datasets, enabling businesses to make data-driven decisions.  
->  
 > 🤖 **AI-powered models** can now perform tasks once thought exclusive to human intelligence — from language translation to image recognition.  
->  
 > 🌦️ **Weather data**, when combined with machine learning, can be used to predict real-world events like **crime patterns** and **disease outbreaks**.  
->  
 > ☁️ **Cloud computing** enables scalable and fast deployment of data science models with just a few clicks!
 <hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
+
+
+## 🎯 Current Focus
+
+📌 Developing AI-driven solutions for real-world problems like crime forecasting and health diagnostics.
+
+📌 Enhancing my expertise in Data Science, Deep Learning, MongoDB, and Cloud Computing.
+
+📌 Exploring innovative technologies through internships in Advanced Software Engineering and project-based learning.
+
+📌 Actively participating in open-source contributions and tech communities to collaborate and grow.
+
+📌 Preparing for upcoming hackathons, industry-level deployments, and collaborative research in AI and emerging technologies.
+
+
