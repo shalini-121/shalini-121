@@ -80,4 +80,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-121&layout=compact&theme=tokyonight" /> 
 </p>
 
+### 🐍 Sizzling the Feed
 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/snake.svg" alt="Snake animation"/> 
+</p>
