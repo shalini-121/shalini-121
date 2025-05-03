@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Let's+build+something+awesome!;Machine+Learning+Explorer;Creative+Thinker+|+Problem+solver;Data+Driven+Develper" alt="Typing SVG" />
 </p>
 
----
+<hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
 
 ## 🧑‍💻 About Me
 
