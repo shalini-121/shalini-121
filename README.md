@@ -15,13 +15,56 @@
 - 💡 A passionate learner of **Data Science**, **Machine Learning**, and **AI**, always eager to explore real-world applications  
 - 🧠 I have completed an **internship in Advanced Software Engineering**, where I gained valuable hands-on experience in software development principles and practices  
 - 📊 Projects I've worked on:
-  - **Weather-Driven Crime Prediction** in Bengaluru using multi-source data and machine learning
+  - **Weather-Driven Crime Prediction** using multi-source data and machine learning
   - **Diabetes Prediction** using ensemble ML models and performance tuning
   - Conducted **case studies** in various data science applications
 - ☁️ I'm also exploring **Cloud Computing** and working with tools like **MongoDB** for data handling  
 - 💬 Ask me about anything related to Data Science, ML models, or how to get started with AI!
 <hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
+### 🚀 Projects Showcase
 
+<p align="center">
+  <img src="https://github.com/charanreddy-27/charanreddy-27/blob/main/assets/projects-animation.gif" alt="Projects Animation" width="600">
+</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>💡 Project</th>
+      <th>🚀 Description</th>
+      <th>🛠️ Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/charan0403/lung-disease-detector">Lung Disease Detection</a></td>
+      <td>AI model to detect TB, COVID, Pneumonia, etc.</td>
+      <td>TensorFlow, CNN, Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charan0403/smoke-gas-detector-iot">IoT Smoke Detection</a></td>
+      <td>Real-time smoke/gas alert system</td>
+      <td>Arduino, MQ Sensors</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charan0403/fake-image-detector">Fake Image Detector</a></td>
+      <td>Identifies tampered/edited images</td>
+      <td>OpenCV, SciKit, Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charan0403/ecom-analytics">E-commerce Analytics</a></td>
+      <td>Real-time trends for business insights</td>
+      <td>Apache Kafka, Spark, Node</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/charanreddy-27/charan-portfolio">Charanportfolio</a></td>
+      <td>My personal dev portfolio</td>
+      <td>React, TypeScript, Tailwind</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 ## 🧠 Did You Know?
 
 > 🧠 **“Deep Learning”** algorithms are inspired by how the human brain works, mimicking neurons and synapses.  
