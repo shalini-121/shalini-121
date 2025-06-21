@@ -42,25 +42,16 @@
       <td>HTML,CSS,JS</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/shalini-121/Weather-Crime-Prediction.git">Weather Driven Crime Prediction</a></td>
+      <td>Predicts the crime rate based on weather</td>
+      <td>Python,Pandas,NumPy,Scikit-learn,XGBoost,Matplotlib</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/shalini-121/CLOCK-PROJECT.git">Simple Clock</a></td>
       <td>Clock showing Time</td>
       <td>HTML,CSS,JS</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/charan0403/fake-image-detector">Fake Image Detector</a></td>
-      <td>Identifies tampered/edited images</td>
-      <td>OpenCV, SciKit, Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/charan0403/ecom-analytics">E-commerce Analytics</a></td>
-      <td>Real-time trends for business insights</td>
-      <td>Apache Kafka, Spark, Node</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/charanreddy-27/charan-portfolio">Charanportfolio</a></td>
-      <td>My personal dev portfolio</td>
-      <td>React, TypeScript, Tailwind</td>
-    </tr>
+    
   </tbody>
 </table>
 
