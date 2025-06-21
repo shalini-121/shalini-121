@@ -16,7 +16,7 @@
 - 🧠 I have completed an **internship in Advanced Software Engineering**, where I gained valuable hands-on experience in software development principles and practices  
 - 📊 Projects I've worked on:
   - **Weather-Driven Crime Prediction** using multi-source data and machine learning
-  - **Diabetes Prediction** using ensemble ML models and performance tuning
+  - **Telugu Speech To Telugu Text** using Frontend tools like HTML,CSS,JS
   - Conducted **case studies** in various data science applications
 - ☁️ I'm also exploring **Cloud Computing** and working with tools like **MongoDB** for data handling  
 - 💬 Ask me about anything related to Data Science, ML models, or how to get started with AI!
