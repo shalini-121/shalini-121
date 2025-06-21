@@ -21,11 +21,11 @@
 - ☁️ I'm also exploring **Cloud Computing** and working with tools like **MongoDB** for data handling  
 - 💬 Ask me about anything related to Data Science, ML models, or how to get started with AI!
 <hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
-### 🚀 Projects Showcase
 
-<p align="center">
-  <img src="https://github.com/charanreddy-27/charanreddy-27/blob/main/assets/projects-animation.gif" alt="Projects Animation" width="600">
-</p>
+
+## 🚀 Projects Showcase
+
+
 
 <table align="center">
   <thead>
@@ -38,8 +38,8 @@
   <tbody>
     <tr>
       <td><a href=https://github.com/shalini-121/TeluguSpeechToTeluguText.git>Telugu Speech To Telugu Text</a></td>
-      <td>AI model to detect TB, COVID, Pneumonia, etc.</td>
-      <td>TensorFlow, CNN, Python</td>
+      <td>Converts spoken Telugu into written Telugu</td>
+      <td>HTML,CSS,JS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/charan0403/smoke-gas-detector-iot">IoT Smoke Detection</a></td>
