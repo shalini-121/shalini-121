@@ -58,10 +58,14 @@
 ---
 ## 🧠 Did You Know?
 
-> 🧠 **“Deep Learning”** algorithms are inspired by how the human brain works, mimicking neurons and synapses.  
-> 🔍 **Data Science** helps uncover patterns in massive datasets, enabling businesses to make data-driven decisions.  
-> 🤖 **AI-powered models** can now perform tasks once thought exclusive to human intelligence — from language translation to image recognition.  
-> 🌦️ **Weather data**, when combined with machine learning, can be used to predict real-world events like **crime patterns** and **disease outbreaks**.  
+> 🧠 **“Deep Learning”** algorithms are inspired by how the human brain works, mimicking neurons and synapses.
+> 
+> 🔍 **Data Science** helps uncover patterns in massive datasets, enabling businesses to make data-driven decisions.
+> 
+> 🤖 **AI-powered models** can now perform tasks once thought exclusive to human intelligence — from language translation to image recognition.
+>  
+> 🌦️ **Weather data**, when combined with machine learning, can be used to predict real-world events like **crime patterns** and **disease outbreaks**.
+> 
 > ☁️ **Cloud computing** enables scalable and fast deployment of data science models with just a few clicks!
 <hr style="border: none; border-top: 2px dashed #999; margin: 20px 0;" />
 
