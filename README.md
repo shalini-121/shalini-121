@@ -37,14 +37,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=https://github.com/shalini-121/TeluguSpeechToTeluguText.git>Telugu Speech To Telugu Text</a></td>
+      <td><a href="https://github.com/shalini-121/TeluguSpeechToTeluguText.git">Telugu Speech To Telugu Text</a></td>
       <td>Converts spoken Telugu into written Telugu</td>
       <td>HTML,CSS,JS</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/charan0403/smoke-gas-detector-iot">IoT Smoke Detection</a></td>
-      <td>Real-time smoke/gas alert system</td>
-      <td>Arduino, MQ Sensors</td>
+      <td><a href="https://github.com/shalini-121/CLOCK-PROJECT.git">Simple Clock</a></td>
+      <td>Clock showing Time</td>
+      <td>HTML,CSS,JS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/charan0403/fake-image-detector">Fake Image Detector</a></td>
