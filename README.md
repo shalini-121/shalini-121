@@ -37,7 +37,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/charan0403/lung-disease-detector">Lung Disease Detection</a></td>
+      <td><a href=https://github.com/shalini-121/TeluguSpeechToTeluguText.git>Telugu Speech To Telugu Text</a></td>
       <td>AI model to detect TB, COVID, Pneumonia, etc.</td>
       <td>TensorFlow, CNN, Python</td>
     </tr>
