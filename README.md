@@ -52,7 +52,7 @@
       <td>HTML,CSS,JS</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/charanreddy-27/charan-portfolio">Shalini Portfolio</a></td>
+      <td><a href="https://github.com/shalini-121/my-portfolio.git">Shalini Portfolio</a></td>
       <td>My personal dev portfolio</td>
       <td>React, TypeScript, Tailwind</td>
     </tr>
