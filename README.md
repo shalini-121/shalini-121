@@ -123,7 +123,7 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/snake.svg" alt="Snake animation"/> 
 </p>
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/shalini-chegireddy-290599290" target="_blank">
