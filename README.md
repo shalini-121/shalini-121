@@ -123,3 +123,24 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/charanreddy-27/charanreddy-27/output/snake.svg" alt="Snake animation"/> 
 </p>
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shalini-chegireddy-290599290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+  <a href="mailto:shalinichegireddy59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://charan-reddy.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a> 
+</p>
+
+<!-- Fun GIF or Art -->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
