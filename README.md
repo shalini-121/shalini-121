@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shalini Chegireddy</h1>
+<h1 align="center">Hi, I'm Shalini Chegireddy 👋</h1>
 
 
 **A passionate developer, inventive problem solver, and data enthusiast, driven to turn ideas into innovative solutions with precision and creativity!**
