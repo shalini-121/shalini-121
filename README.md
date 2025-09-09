@@ -57,7 +57,7 @@
       <td>React, TypeScript, Tailwind</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/shalini-121/TeluguSpeechToTeluguText.git">LoneLeaf Blog</a></td>
+      <td><a href="https://github.com/shalini-121/LoneLeafBlog.git">LoneLeaf Blog</a></td>
       <td></td>
       <td>HTML,CSS,JS</td>
     </tr>
