@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/shalini-121/LoneLeafBlog.git">api-tea-analogy</a></td>
-      <td></td>
+      <td>friendly explanation of APIs</td>
       <td>HTML,CSS,Python,Flask</td>
     </tr>
     
