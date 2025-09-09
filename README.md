@@ -61,6 +61,11 @@
       <td>LoneLeaf Blog is a simple and interactive blogging application</td>
       <td>HTML,CSS,Python,Flask</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/shalini-121/LoneLeafBlog.git">LoneLeaf Blog</a></td>
+      <td>LoneLeaf Blog is a simple and interactive blogging application</td>
+      <td>HTML,CSS,Python,Flask</td>
+    </tr>
     
   </tbody>
 </table>
