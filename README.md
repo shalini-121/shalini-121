@@ -11,7 +11,7 @@
 
 
 ## 👨‍💻 About Me
-- 🎓 I am currently pursuing **B.Tech Information Technology** — Batch of 2026  
+- 🎓 I am a graduate **B.Tech Information Technology** — Batch of 2026  
 - 💡 A passionate learner of **Data Science**, **Machine Learning**, and **AI**, always eager to explore real-world applications  
 - 🧠 I have completed an **internship in Advanced Software Engineering**, where I gained valuable hands-on experience in software development principles and practices  
 - 📊 Projects I've worked on:
